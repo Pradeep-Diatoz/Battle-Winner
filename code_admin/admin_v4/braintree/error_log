@@ -1,0 +1,6 @@
+[22-May-2019 09:39:16 Etc/GMT] PHP Notice:  Undefined index: nonce in /home/freechaq/public_html/battleworld/paypal/checkout.php on line 5
+[22-May-2019 09:39:16 Etc/GMT] PHP Notice:  Undefined index: amount in /home/freechaq/public_html/battleworld/paypal/checkout.php on line 6
+[22-May-2019 14:50:54 Etc/GMT] PHP Notice:  Undefined index: nonce in /home/freechaq/public_html/battleworld/paypal/checkout.php on line 5
+[22-May-2019 14:50:54 Etc/GMT] PHP Notice:  Undefined index: amount in /home/freechaq/public_html/battleworld/paypal/checkout.php on line 6
+[20-Sep-2019 09:23:58 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_8agh1e1c3mgfltue6adtvf6gc6, O_RDWR) failed: Disk quota exceeded (122) in /home/skyfo9g2/public_html/pubg/braintree/braintree_init.php on line 2
+[21-Sep-2019 13:13:48 Etc/GMT] PHP Warning:  session_start(): open(/tmp/sess_n30kv71dhqrqqu5giedp3vlm43, O_RDWR) failed: Disk quota exceeded (122) in /home/skyfo9g2/public_html/pubg/braintree/braintree_init.php on line 2
